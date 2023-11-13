@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://th.bing.com/th/id/OIP.yqjPZe30-fR5FpCc-fBLogHaFj?w=234&h=180&c=7&r=0&o=5&pid=1.7);
+  background-size: cover;
+}
+p {
+  font-family: Courier New;
+  border: 5px ridge;
+  border-color: gold;
+  max-width: 30ch;
+}
+h1 {
+  font-family: Brush Script Mt;
+  border: 5px dashed;
+  max-width: 7ch;
+  border-color: white;
+}
+h2 {
+  font-family: Brush Script Mt;
+}
